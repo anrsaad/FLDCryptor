@@ -1,5 +1,6 @@
 # FLDCryptor
-code by : Saad Anouar
+code by : Saad Anouar                                                                                                                                                      
+
 Folder Cryptor: Program write on python to crypte folder and subfolder with a special key and save the key to desktop in a txt file
 
 <a href="https://ibb.co/s18YY6b"><img src="https://i.ibb.co/wQ5mmwB/Screenshot-10.png" alt="Screenshot-10" border="0"></a>
