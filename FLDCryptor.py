@@ -78,11 +78,9 @@ while True:
         path()
         # key
         key = Fernet.generate_key()
-        print("this is your cryptage key: {key}")
+        print("this is your cryptage key:", key)
         with open('enckey.txt', 'wb') as filekey:
-            filekey.write("File Generate by : Folder Cryptor\n program by : Saad Anouar\nYour Cryptage Key is : ")
             filekey.write(key)
-            filekey.write("\n\n be sure to download the program from: https://github.com/anrsaad/FLDCryptor")
         with open('enckey.txt', 'rb') as filekey:
             key = filekey.read()
 
