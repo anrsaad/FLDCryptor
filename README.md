@@ -5,7 +5,12 @@ Folder Cryptor: Program write on python to crypte folder and subfolder with a sp
 
 <a href="https://ibb.co/s18YY6b"><img src="https://i.ibb.co/wQ5mmwB/Screenshot-10.png" alt="Screenshot-10" border="0"></a>
 
-# Folder Cryptor :
+# Folder Cryptor Gui :
 
 <a href="https://ibb.co/T4Bs7Tv"><img src="https://i.ibb.co/Lxz3cPk/Screenshot-11.png" alt="Screenshot-11" border="0"></a>
+
+# feautures:
+- program easy to use, create with python language
+- you can crypte a entier folder and his subfolder with a speacial key 
+- the key saved into a text file in your desktop
 
